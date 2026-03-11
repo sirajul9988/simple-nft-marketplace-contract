@@ -1,0 +1,8 @@
+{
+  "name": "simple-nft-marketplace-contract",
+  "version": "1.0.0",
+  "description": "Smart contracts for a basic NFT marketplace",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
